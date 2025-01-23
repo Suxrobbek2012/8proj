@@ -1,0 +1,183 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    background-image: url("./images/image\ 1\ \(3\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    padding-top: 50px;
+}
+.container{
+    max-width: 1330px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__left{
+    display: flex;
+    align-items: center;
+    gap: 68px;
+}
+.header__btn{
+    width: 243px;
+    background-color: rgba(0, 159, 245, 0.71);
+    padding: 5px 0 5px 5px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 4px 0 white;
+}
+.header__link{
+    color: white;
+    text-decoration: none;
+    transition: 0.5;
+}
+.hero{
+    padding-top: 163px;
+    padding-bottom: 126px;
+}
+.hero__texbox{
+    box-sizing: border-box;
+    margin: 0 auto;
+border: 11px solid rgb(90, 85, 85);
+border-radius: 50px;
+
+background: rgb(255, 198, 17);
+width: 604px;
+padding: 30px 0;
+
+}
+.hero__title{
+    color: rgb(0, 0, 0);
+font-family: "Roboto";
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0%;
+text-align: left;
+text-shadow: 0px 4px 4px blue;
+}
+.hero__box{
+    text-align: center;
+    width: 361px;
+    box-shadow: 8px 7px 20px 0px rgb(255, 255, 255);
+background: rgb(31, 31, 31);
+}
+.hero__heading{
+    color: rgb(0, 0, 0);
+font-family: "Roboto";
+font-size: 36px;
+font-weight: 600;
+line-height: 42px;
+text-align: center;
+text-shadow: 0px 4px 4px yellow;
+padding: 15px 15px;
+}
+.hero__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 132px;
+}
+.dad{
+    max-width: 1440px;
+margin: 0 auto;
+height: 1042px;
+box-shadow: 0px 4px 18.6px 0px rgb(0, 0, 0);
+background: rgb(0, 0, 0);
+}
+.kat{
+    color: rgb(90, 85, 85);
+font-family: Roboto;
+font-size: 64px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 61px;
+text-align: center;
+}
+.bot{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 27px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+width: 663px;
+height: 140px;
+}
+.zero{
+    display: flex;
+    
+    justify-content: space-evenly;
+}
+.hot{
+    width: 278px;
+    height: 61px;
+    box-shadow: 0px 7px 12.8px 0px rgb(255, 255, 255);
+background-color: rgb(83, 83, 83);
+}
+.dog{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 27px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+box-shadow: 0px 4px 4px white ;
+}
+.zeroo{
+    display: flex;
+    
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.dogg{
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    box-shadow: 0px 4px 4px white ;
+}
+.hott{
+    width: 278px;
+    height: 61px;
+    box-shadow: 0px 7px 12.8px 0px rgb(255, 255, 255);
+background-color: rgb(203, 214, 0);
+}
+.goo{
+    background: rgb(255, 198, 17);
+    width: 1440px;
+height: 158px;
+margin: 0 auto;
+
+}
+.bots{
+    padding-top:60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.numbr1{
+    gap: 100px;
+}
